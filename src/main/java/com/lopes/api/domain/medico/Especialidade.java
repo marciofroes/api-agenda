@@ -1,4 +1,4 @@
-package com.lopes.api.medico;
+package com.lopes.api.domain.medico;
 
 public enum Especialidade {
 
